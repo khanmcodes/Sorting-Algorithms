@@ -1,2 +1,8 @@
 # Sorting-Algorithms
-Bubble Sort&lt;br>Insertion Sort&lt;br>Merge Sort&lt;br>Quick Sort&lt;br>Selection Sort
+Bubble Sort<br>
+Insertion Sort<br>
+Merge Sort<br>
+Quick Sort<br>
+Selection Sort<br>
+<br>
+In JAVA
